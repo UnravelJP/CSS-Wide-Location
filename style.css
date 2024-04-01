@@ -1,0 +1,162 @@
+* {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+
+    margin-top: 47px;
+    margin-left: 42px;
+
+}
+
+.link-header {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    margin-left: 42px;
+    color: #17233D;
+    cursor: pointer;
+}
+
+.botao-principal {
+    width: 124px;
+    height: 51px;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    cursor: pointer;
+    border: 1px;
+    border-color: #4CB538;
+    border-radius: 5px;
+    background: #6FBF44;
+    margin-left: 30px;
+
+}
+
+.img-logo {
+    width: 500px;
+    height: 480px;
+    margin: 163px 0 0 123px;
+    display: inline-block;
+
+}
+
+section {
+
+    display: inline-block;
+    margin-left: 70px;
+
+}
+
+h1 {
+
+    width: 582px;
+    height: 164px;
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    color: #161A49;
+
+
+}
+
+h2 {
+    width: 493px;
+    height: 99px;
+    color: #4B505A;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    margin-top: 47px;
+    margin-bottom: 55px;
+
+}
+
+.link-inferior {
+
+    color: #6FBF44;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 440px) {
+
+    header {
+        margin: 0;
+        padding: 0;
+    }
+
+
+
+    section {
+        margin: 0;
+        padding: 0;
+    }
+
+    .link-header {
+        display: none;
+    }
+
+    .botao-principal {
+        position: relative;
+        display: block;
+        margin: 17px 15px 76px 284px;
+        width: 91px;
+        height: 31px;
+        font-size: 12px;
+        line-height: 18px;
+        letter-spacing: 1px;
+    }
+
+    h1 {
+        display: block;
+        width: 278px;
+        height: 60px;
+        font-size: 30px;
+        line-height: 30px;
+        letter-spacing: 0.5961538553237915px;
+        text-align: center;
+        margin: 0px 55px 29px 57px;
+    }
+
+    h2 {
+        display: block;
+        width: 304px;
+        height: 165px;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 33px;
+        letter-spacing: 0.5px;
+        text-align: center;
+        margin: 0px 43px 26px;
+    }
+
+    .link-inferior {
+        width: 120px;
+        height: 27px;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 27px;
+        letter-spacing: 1px;
+        text-align: left;
+        display: block;
+        margin: 0px 139px 59px;
+    }
+
+    .img-logo {
+        display: block;
+        position: absolute;
+        width: 70%;
+        height: 35%;
+        margin: 366px auto 22px;
+        left: 50%;
+        transform: translateX(-50%);
+
+    }
+}
