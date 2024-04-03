@@ -6,6 +6,28 @@ Wide Location é um projeto onde explorei e desenvolvi minhas habilidades em HTM
 
 O projeto Wide Location foi concebido como uma plataforma de demonstração para explorar diferentes técnicas de desenvolvimento web usando HTML e CSS. O objetivo principal foi aprimorar minhas habilidades de front-end, focando em design responsivo e boas práticas de codificação.
 
+
+<h2>Screenshots</h2>
+
+**Computador e telas semelhantes:**
+
+<div align="center">
+<img width=1000px src="https://raw.githubusercontent.com/UnravelJP/CSS-Wide-Location/main/img/screenshot-2.png">
+</div>
+<br>
+<br>
+<br>
+<br>
+
+**Telas de dispositivos móveis:**
+
+<div align="center">
+<img height=450px src="https://raw.githubusercontent.com/UnravelJP/CSS-Wide-Location/main/img/screenshot-1.png">
+</div>
+<br>
+<br>
+
+
 <h2>Recursos</h2>
 
 **HTML:** Utilizei HTML semântico para estruturar o conteúdo da página, garantindo uma base sólida para acessibilidade e SEO.
