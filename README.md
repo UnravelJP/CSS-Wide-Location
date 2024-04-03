@@ -1,55 +1,36 @@
 <h1>Wide Location</h1>
 
-Bem-vindo ao repositório do projeto Wide Location! Este projeto foi desenvolvido para aprimorar habilidades em HTML e CSS, com foco na criação de uma tela inicial com design intuitivo e responsivo.
+Wide Location é um projeto onde explorei e desenvolvi minhas habilidades em HTML e CSS. Este repositório contém os arquivos e recursos relacionados ao projeto.
 
-<h2>Sobre o Projeto</h2>
+<h2>Visão Geral</h2>
 
-O Easy Shopping é um projeto simples e elegante, concentrado em criar uma tela inicial atraente para uma aplicação ou site de compras online. A ênfase está no design intuitivo, que permite aos usuários navegar facilmente pelo conteúdo, independentemente do dispositivo que estão usando.
+O projeto Wide Location foi concebido como uma plataforma de demonstração para explorar diferentes técnicas de desenvolvimento web usando HTML e CSS. O objetivo principal foi aprimorar minhas habilidades de front-end, focando em design responsivo e boas práticas de codificação.
 
-<h2>Características</h2>
+<h2>Recursos</h2>
 
-**Design Responsivo:** A tela inicial se adapta perfeitamente a uma variedade de dispositivos, desde smartphones até desktops, proporcionando uma experiência consistente em qualquer tamanho de tela.
+**HTML:** Utilizei HTML semântico para estruturar o conteúdo da página, garantindo uma base sólida para acessibilidade e SEO.
 
-**Interface Intuitiva:** O design limpo e organizado torna a navegação fácil e intuitiva para os usuários, permitindo que eles se concentrem nos produtos e nas informações relevantes.
+**CSS:** Implementei estilos CSS para fornecer uma experiência visual agradável e coesa em todos os dispositivos.
 
-**Estilo Atraente:** Utilização de técnicas de design modernas em CSS para criar uma aparência atraente e profissional.
+**Design Responsivo:** Adotei uma abordagem de design responsivo para garantir que o site seja acessível e funcional em uma variedade de dispositivos, desde desktops até smartphones.
 
-<h2>Tecnologias Utilizadas</h2>
+**Git:** Versionamento do projeto usando o Git para controle de versão e colaboração.
 
- <img src="https://img.icons8.com/color/24/000000/html-5--v1.png"/> **HTML5:** Foi utilizado para estruturar o conteúdo da tela inicial de forma semântica e acessível, garantindo uma base sólida para o design e a interatividade.
+<h2>Estrutura do Projeto</h2>
 
- <img src="https://img.icons8.com/color/24/000000/css3.png"/> **CSS:** Foi empregado para estilizar e tornar visualmente atraente a tela inicial, aplicando layouts, cores, fontes e outros estilos para criar uma experiência visual coesa e agradável. Além de tornar o projeto responsivo para que a página se adapte de forma adequada a uma variedade de dispositivos e tamanhos de tela.
+**index.html:** Arquivo principal que contém a estrutura do site.
+**styles.css:** Arquivo de estilo CSS que define a aparência e o layout do site.
+**/img:** Diretório que armazena todas as imagens e recursos visuais utilizados no projeto.
 
-<h2>Screenshots</h2>
+<a href="https://unraveljp.github.io/CSS-Wide-Location/"> Clique aqui</a> para abrir o projeto.
 
-**Computador e telas semelhantes:**
 
-<div align="center">
-<img width=1000px src="https://raw.githubusercontent.com/UnravelJP/CSS-Easy-Shopping/master/screenshot-1.png">
-</div>
-<br>
-<br>
-<br>
-<br>
+<h2>Como Contribuir<</h2>
 
-**Telas de dispositivos móveis:**
-
-<div align="center">
-<img height=450px src="https://raw.githubusercontent.com/UnravelJP/CSS-Easy-Shopping/master/screenshot-2.png">
-</div>
-<br>
-<br>
-
-<h2>Como Usar</h2>
-Para visualizar a tela inicial do Easy Shopping, basta abrir o arquivo index.html em qualquer navegador web moderno. Você também pode fazer o download do repositório e personalizar o código conforme necessário para o seu próprio projeto. Se preferir pode <a href="https://unraveljp.github.io/CSS-Easy-Shopping/"> clicar aqui</a> para abrir o projeto.
-
-<h2>Contribuindo</h2>
-Este projeto foi desenvolvido com o propósito de aprimorar habilidades em HTML e CSS, mas se você deseja contribuir de alguma forma, sinta-se à vontade para fazer um fork do repositório e enviar suas melhorias através de pull requests.
-
-<h2>Agradecimentos</h2>
-Obrigado por conferir o projeto Easy Shopping! Espero que ele seja útil para aprimorar suas habilidades em HTML e CSS, e inspire você a criar designs intuitivos e responsivos para seus próprios projetos.
+Se você estiver interessado em contribuir para o projeto Wide Location, fique à vontade para abrir uma issue ou enviar uma solicitação de pull request. Todas as contribuições são bem-vindas!
 
 <h2>Contato</h2>
+
 Se tiver alguma dúvida, sugestão ou apenas quiser entrar em contato, você pode me encontrar no:
 <br>
 <br>
