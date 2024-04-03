@@ -49,7 +49,7 @@ O projeto Wide Location foi concebido como uma plataforma de demonstração para
 <a href="https://unraveljp.github.io/CSS-Wide-Location/"> Clique aqui</a> para abrir o projeto.
 
 
-<h2>Como Contribuir<</h2>
+<h2>Como Contribuir</h2>
 
 Se você estiver interessado em contribuir para o projeto Wide Location, fique à vontade para abrir uma issue ou enviar uma solicitação de pull request. Todas as contribuições são bem-vindas!
 
