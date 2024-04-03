@@ -41,7 +41,9 @@ O projeto Wide Location foi concebido como uma plataforma de demonstração para
 <h2>Estrutura do Projeto</h2>
 
 **index.html:** Arquivo principal que contém a estrutura do site.
+
 **styles.css:** Arquivo de estilo CSS que define a aparência e o layout do site.
+
 **/img:** Diretório que armazena todas as imagens e recursos visuais utilizados no projeto.
 
 <a href="https://unraveljp.github.io/CSS-Wide-Location/"> Clique aqui</a> para abrir o projeto.
